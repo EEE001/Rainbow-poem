@@ -6,6 +6,7 @@ blue
 green
 red
 yellow
+Earth day
 red
 These are the colours of rainbow.
 and the uniccorn
